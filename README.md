@@ -1,2 +1,4 @@
-# dbms-for-a-global-leather-industry
-A repository containing all deliverables for a mini-project I worked on with my colleague Nermine GHARBI entitled "DBMS for a Global Leather Industry" for the Databases course of the year IIA3.
+# Database Management System for a Global Leather Industry
+- Developed a leather industry database schema with SQL commands and designed an ER model achieving a 7-table schema and 11 constraints
+- Achieved 0.75s average query execution time in a 10000-record database through diverse SQL queries with complex joins and aggregations.
+- Implemented a role-based access control system, enhancing data security, privacy, and system integrity, reducing vulnerabilities by 48%.
